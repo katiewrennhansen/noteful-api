@@ -1,0 +1,12 @@
+node-modules
+.env
+
+
+
+
+//if using ESLint - add this to .eslintric.js
+
+"globals": {
+  "supertest": true,
+  "expect": true
+}
